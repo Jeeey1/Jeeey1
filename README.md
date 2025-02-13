@@ -12,16 +12,21 @@
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeeey1&show_icons=true&theme=merko)
 
 ## Technologies I use daily
-<div style="display: inline-block">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
+<div>
   <h2 style="margin: 10px 0px">Front-end</h2><img alt="html5" aling="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css3" aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="javascript" aling="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+<div>
   <h2 style="margin: 10px 0px">Back-end</h2>
   <img alt="php" aling="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="php/laravel" aling="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img alt="cplusplus" aling="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+</div>
 <div><br></div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeeey1&layout=compact&theme=merko)
 
