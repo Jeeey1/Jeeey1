@@ -1,6 +1,7 @@
 ## Hey! I'm João Vitor! 👾
 
 <p>Open to constructive criticism and suggestions to help me grow and improve.</p>
+<blockquote>"There is no light for those who do not know darkness"</blockquote>
 
 ### 📬 - How to reach me
 
