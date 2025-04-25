@@ -33,7 +33,7 @@
 
 ### 🚀 Projects
 - [Project Bikcraft](https://jeeey1.github.io/projeto-bikcraft/) - A website made with HTML5 and CSS3
-- [News Homepage](https://jeeey1.github.io/desafio-frontendmentor-news-homepage/) - A website made with HTML5, CSS3, and JavaScript
+- [PokeAPI](https://jeeey1.github.io/pokeAPI/) - A website made with HTML5, CSS3, and JavaScript using an API.
 
 
 ### 🎮 Fun fact  
